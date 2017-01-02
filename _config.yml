@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Naomi Jing
+
+- title: About
+  url: /pages/about.html
+  
+- title: Typography
+  url: /pages/typography.html
+

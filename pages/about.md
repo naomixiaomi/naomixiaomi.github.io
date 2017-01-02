@@ -25,8 +25,8 @@ Naomi Jing is a senior studying statistics at the [University of California, Ber
         </div>
 
         <div class="span2">
-        <a href="../assets/small_headshot.jpg">
-            <img src="../assets/small_headshot.jpg"
+        <a href="https://github.com/naomixiaomi/naomixiaomi.github.io/blob/master/assets/small_headshot.png">
+            <img src="https://github.com/naomixiaomi/naomixiaomi.github.io/blob/master/assets/small_headshot.png"
                   title="Naomi Jing" alt="Naomi Jing"/></a>
 
     </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: a cappella
 description: a cappella
 ---
 

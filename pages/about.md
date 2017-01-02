@@ -3,6 +3,7 @@ layout: page
 title: about
 description: Naomi Jing is a senior at the University of California, Berkeley studying statistics
 ---
+Hello there!
 
 Naomi Jing is a senior studying statistics at the [University of California, Berkeley](http://www.berkeley.edu).
 

@@ -6,6 +6,7 @@ description: Naomi Jing is a senior at the University of California, Berkeley st
 Naomi Jing is a senior studying statistics at the [University of California, Berkeley](http://www.berkeley.edu).
 
 ---
+<link rel = "stylesheet" type = "text/css" media = "screen" href = "../assets/css/style.scss">
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
